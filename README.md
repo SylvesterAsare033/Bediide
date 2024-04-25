@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bediide
+- 👋 Hi, I’m @Sylvester
 - 👀 I’m interested in playing the trumpet
 - 🌱 I’m currently learning software Engineering 
 - 💞️ I’m looking to collaborate on our upcoming projects 
