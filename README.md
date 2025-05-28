@@ -15,9 +15,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ## 📈 GitHub Stats
 ![SylvesterAsare033's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SylvesterAsare033&show_icons=true&theme=radical)
 
-## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/sylvesterasare033)
-- [Twitter](https://twitter.com/SylvesterAsare033)
+## 🔗 Connect with me
+[LinkedIn](https://www.linkedin.com/in/sylvester-asare)
 
 ## 📫 How to reach me
 Feel free to reach out to me via [email](mailto:sylvesterasare033@example.com) for any inquiries or collaborations.
