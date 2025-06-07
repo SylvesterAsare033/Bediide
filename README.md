@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 - 🎓 Always eager to learn and grow my skills.
 
 ## 🛠️ Technologies & Tools
-- **Languages:** JavaScript, Python, Java, C++
-- **Frameworks:** React, Node.js, Django, Spring Boot
+- **Languages:** JavaScript, Python, Java, C++,PHP
+- **Frameworks:** React, Node.js, Django, Spring Boot,Laravel,Next . Js, React Native
 - **Tools:** Git, Docker, Kubernetes, AWS
 
 ## 📈 GitHub Stats
