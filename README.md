@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ## 🛠️ Technologies & Tools
 - **Languages:** JavaScript, Python, Java, C++,PHP
-- **Frameworks:** React, Node.js, Django, Spring Boot,Laravel,Next . Js, React Native
+- **Frameworks:** React, Node.js, Django, Spring Boot,Laravel,Next . Js, React Native, Angular
 - **Tools:** Git, Docker, Kubernetes, AWS
 
 ## 📈 GitHub Stats
@@ -19,6 +19,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 [LinkedIn](https://www.linkedin.com/in/sylvester-asare)
 
 ## 📫 How to reach me
-Feel free to reach out to me via [email](mailto:sylvesterasare033@example.com) for any inquiries or collaborations.
+Feel free to reach out to me via [email](mailto:asaresylvester033@gmail.com) for any inquiries or collaborations.
 
 Thanks for visiting my profile!
